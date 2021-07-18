@@ -1,0 +1,1 @@
+O código foi escrito para práticar lógica de programação, utilizando IF e document.write para exibir a mensagem na tela do navegador.
