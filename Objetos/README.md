@@ -1,0 +1,1 @@
+Praticando a criação de objetos com JavaScript, seja com função e return ou com as linhas que usam this.name.
